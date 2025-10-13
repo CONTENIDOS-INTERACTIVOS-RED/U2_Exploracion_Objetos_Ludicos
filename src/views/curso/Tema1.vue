@@ -237,15 +237,46 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/243866 " target="_blank" rel="noopener noreferrer") Grimaldo, A. (Coord.) & Guerra, E. (Coord.). (2023). La imaginación en los proyectos de aprendizaje: alcances y prácticas de la educación imaginativa: (1 ed.). Ediciones Morata, S. L. 
+
+
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/111086 " target="_blank" rel="noopener noreferrer") Valadés, E. (1995). El libro de la imaginación: ( ed.). FCE - Fondo de Cultura Económica. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://educrea.cl/wp-content/uploads/2017/03/DOC1-educyarte.pdf" target="_blank" rel="noopener noreferrer") Granadino, F. (2006). La educación inicial y el arte. Facultad deficiencias y humanidades de la Universidad del Salvador. Recuperado de: http://portal. oas. org/LinkClick. aspx.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.tierraenlasmanos.com/la-importancia-de-la-imaginacion-infantil-y-como-no-aplastarla/  " target="_blank" rel="noopener noreferrer") La importancia de no aplastar la imaginación infantil. (s.f.). Tierra en las manos. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.guiainfantil.com/blog/1125/tienen-o-no-tienen-los-ninos-mucha-imaginacion.html " target="_blank" rel="noopener noreferrer") La imaginación y la creatividad de los niños no tienen límites. (s.f.). Guiainfantil.com. 
+
+
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=gpEWfMGKxx4 " target="_blank" rel="noopener noreferrer") Jardín de Historias. (2017, 27 de agosto). El arte alimenta la imaginación [Video]. YouTube. 
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=emajJ00ogCA" target="_blank" rel="noopener noreferrer") Rama Negra. (2020, 26 de julio). "Juguemos con Imaginación. Cuentos para niñxs", de Adriana Commisso [Video]. YouTube.  
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=U1LM4xQyHQE" target="_blank" rel="noopener noreferrer") Colombia Digital. (2012, 30 de julio). ¿Qué resulta de la imaginación y creatividad? [Video]. YouTube.  
+
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

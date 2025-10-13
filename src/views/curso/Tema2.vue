@@ -233,15 +233,62 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/111348" target="_blank" rel="noopener noreferrer") Ridocci, M. (2014). Expresión corporal arte del movimiento: las bases prácticas del lenguaje expresivo: ( ed.). Biblioteca Nueva.  
+
+
+
+
 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/67082" target="_blank" rel="noopener noreferrer") Porstein, A. M. (2016). Cuerpo, juego y movimiento en el Nivel Inicial: propuestas de educación física y expresión corporal: ( ed.). Homo Sapiens Ediciones.  
+
+
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://repository.udistrital.edu.co/items/25fbfbdf-2f55-44bc-b48b-5ab70d77dad9 " target="_blank" rel="noopener noreferrer") Portilla Ortega, J. A. Sr. Títere, caja de herramientas didácticas y educativas para crear narrativas entre maestros y estudiantes por medio del teatro de títeres. 
+
+
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.academia.edu/88079227/Gu%C3%ADa_metodol%C3%B3gica_para_el_manejo_adecuado_de_t%C3%ADteres_en_el_aula_taller_de_la_carrera_de_educaci%C3%B3n_parvularia_de_la_universidad_t%C3%A9cnica_de_Cotopaxi_de_la_parroquia_Eloy_Alfaro_del_cant%C3%B3n_Latacunga_en_la_Provincia_de_Cotopaxi_durante_el_per%C3%ADodo_2011_2012 " target="_blank" rel="noopener noreferrer") Cofre Casillas, B. (2013). Guía metodológica para el manejo adecuado de títeres en el aula taller de la carrera de educación parvularia de la universidad técnica de Cotopaxi de la parroquia Eloy Alfaro del cantón Latacunga, en la Provincia de Cotopaxi durante el período 2011-2012. 
+
+
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.psychologytoday.com/mx/blog/el-uso-de-marionetas-impulsa-el-aprendizaje-de-los-ninos " target="_blank" rel="noopener noreferrer") El uso de marionetas impulsa el aprendizaje de los niños. (s.f.). Psychology Today. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href=" https://unisimon.edu.co/blog/eventos-y-actividades-juego-de-mimica-o-emociones/2061 " target="_blank" rel="noopener noreferrer") Eventos y actividades: juego de mímica o emociones. (s.f.). Universidad Simón Bolivar - USB.
+
+
+
+
+
+
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=ukDJcf65rkY" target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional. (2020, 21 de agosto). 'Títeres y objetos lúdicos para anidar encuentros’ [Video]. YouTube.  
+
+
+
+
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=cT0i-EbnJi0" target="_blank" rel="noopener noreferrer") universidadurjc. (2018, 11 de enero). Expresión corporal. Grado en Educación Infantil [Video]. YouTube.  
+
+  
+
+
+           
+
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
