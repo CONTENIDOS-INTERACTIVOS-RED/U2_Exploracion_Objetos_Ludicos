@@ -38,8 +38,8 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/3.png', alt='')
     
-    #t_2_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 2.1] ¿Qué es el juego mímico? Elementos y beneficios
+    #t_2_2.titulo-segundo(data-aos="flip-up")
+      h2 #[span 2.2] ¿Qué es el juego mímico? Elementos y beneficios
 
     .bg-full-width.bg-color-7
       .p-4.p-md-5
@@ -81,6 +81,8 @@
         
             .bg-color-1.p-5(data-aos="fade-left")
               p.mb-0 En un contexto actual marcado por la diversidad y la inclusión, el juego mímico se posiciona como una herramienta pedagógica adaptable y accesible. Es especialmente valioso para niños con dificultades en el lenguaje verbal, discapacidades sensoriales o que se encuentran en contextos vulnerables, pues facilita la comunicación y el vínculo afectivo a través de canales expresivos alternativos.
+
+        p(data-aos="fade-left") Desde la perspectiva educativa, incorporar el juego mímico en las prácticas pedagógicas permite crear ambientes de aprendizaje activos, dinámicos y estimulantes. Los educadores pueden diseñar actividades que promuevan la espontaneidad, la experimentación corporal y la expresión artística, favoreciendo no solo la creatividad, sino también la autonomía y el desarrollo integral de los estudiantes en la primera infancia.
 
         .row.justify-content-center.align-items-stretch
           .col-lg-6.mb-3.mb-lg-0
